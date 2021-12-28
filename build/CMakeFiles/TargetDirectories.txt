@@ -1,0 +1,3 @@
+/home/muhammed-rahif/My Files/My Major workspace/Quiz/build/CMakeFiles/rebuild_cache.dir
+/home/muhammed-rahif/My Files/My Major workspace/Quiz/build/CMakeFiles/edit_cache.dir
+/home/muhammed-rahif/My Files/My Major workspace/Quiz/build/CMakeFiles/main.dir

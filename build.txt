@@ -1,0 +1,1 @@
+cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=[project root directory path]Quiz/vcpkg/scripts/buildsystems/vcpkg.cmake && cd build && make && ./main && cd .. || cd ..

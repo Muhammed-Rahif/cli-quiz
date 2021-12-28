@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main  ../vcpkg/installed/x64-linux/debug/lib/libcpr.a ../vcpkg/installed/x64-linux/debug/lib/libcurl-d.a ../vcpkg/installed/x64-linux/debug/lib/libssl.a ../vcpkg/installed/x64-linux/debug/lib/libcrypto.a -ldl -lpthread ../vcpkg/installed/x64-linux/lib/libz.a 
