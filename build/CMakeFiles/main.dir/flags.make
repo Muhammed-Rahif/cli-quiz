@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DCURL_STATICLIB -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1
 
-CXX_INCLUDES = -isystem "/home/muhammed-rahif/My Files/My Major workspace/Quiz/vcpkg/installed/x64-linux/include" 
+CXX_INCLUDES = -isystem "/home/muhammed-rahif/My Files/My Major workspace/cli-quiz/vcpkg/installed/x64-linux/include" 
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/muhammed-rahif/My Files/My Major workspace/Quiz
+# Install script for directory: /home/muhammed-rahif/My Files/My Major workspace/cli-quiz
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/muhammed-rahif/My Files/My Major workspace/Quiz/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/muhammed-rahif/My Files/My Major workspace/cli-quiz/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

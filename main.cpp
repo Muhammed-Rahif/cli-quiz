@@ -2,7 +2,6 @@
 #include <cpr/cpr.h>
 #include <nlohmann/json.hpp>
 #include <random>
-#include <typeinfo>
 using json = nlohmann::json;
 using namespace std;
 
@@ -101,7 +100,6 @@ void askAQuestion()
 
     int userAnsIndx;
     cin >> userAnsIndx;
-    cout << typeid(userAnsIndx).name() << endl;
     userAnsIndx--;
 
     if (userAnsIndx == crctAnsIndx)

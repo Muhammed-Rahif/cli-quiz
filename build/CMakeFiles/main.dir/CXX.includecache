@@ -1104,7 +1104,7 @@ stdint.h
 
 ../vcpkg/installed/x64-linux/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
 
-/home/muhammed-rahif/My Files/My Major workspace/Quiz/main.cpp
+/home/muhammed-rahif/My Files/My Major workspace/cli-quiz/main.cpp
 iostream
 -
 cpr/cpr.h
